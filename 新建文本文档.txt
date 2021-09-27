@@ -1,0 +1,2 @@
+  let tem = relativeDir + sep
+    result = { text: getName(baseDir, { stripNumbers, navPrefix }), link: tem.replace(/\\/g, "/") };
